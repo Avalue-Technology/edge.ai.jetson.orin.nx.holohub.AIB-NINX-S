@@ -67,7 +67,7 @@ xhost +local:docker
 ./holohub run endoscopy_tool_tracking --language python --no-docker-build
 ```
 
-# Running Endoscopy Tool Tracking 
+# Running Sample Code - Endoscopy Tool Tracking 
 ![Endoscopy.Tool.Tracking.01.png](https://github.com/Avalue-Technology/edge.ai.jetson.orin.nx.holohub.AIB-NINX-S/blob/main/MarkdownDocumentImages/Endoscopy.Tool.Tracking.01.png?raw=true "Endoscopy.Tool.Tracking.01.png")
 
 
